@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   <h1 align="center">Hola 👋, soy Fabio Chirinos</h1>
-  <h3 align="center">Un apasionado desarrollador web fullstack junior de Lima-Perú. Basicamente puedo convertir café en código ☕.</h3>
+  <h3 align="center">Un apasionado desarrollador web full stack junior de Lima-Perú. Basicamente puedo convertir café en código ☕.</h3>
 </div>
 
----
+
 
 ## 🧑‍💻 Sobre mi:
 
@@ -12,6 +12,8 @@
 -  Pregúntame sobre: JavaScript, Python, React, Node, Express, MongoDB, SQL.
 -  Contáctame: **fabiochirinos7@gmail.com**
 -  Portafolio: [Fabio Chirinos](https://fabiochirinos.github.io/)
+
+
 
 ## ✨ Tecnologías y Herramientas
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +26,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 ## 📌 Redes Sociales
 <div>
