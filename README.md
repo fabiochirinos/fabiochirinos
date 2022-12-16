@@ -9,9 +9,9 @@
 ## 🧑‍💻 Sobre mi:
 
 - 🎓 Egresado de la carrera de Ingeniería de Sistemas
--  Pregúntame sobre: JavaScript, Python, React, Node, Express, MongoDB, SQL.
--  Contáctame: **fabiochirinos7@gmail.com**
--  Portafolio: [Fabio Chirinos](https://fabiochirinos.github.io/)
+- ❓ Pregúntame sobre: JavaScript, Python, React, Node, Express, MongoDB, SQL.
+- 📧 Contáctame: **fabiochirinos7@gmail.com**
+- 🌐 Portafolio: [Fabio Chirinos](https://fabiochirinos.github.io/)
 
 
 
